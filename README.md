@@ -2,7 +2,7 @@
 
 ![image](printf.png)
 
-Eu fiz <strong>apenas</strong> a parte JS, as outras partes foram de autoria da "Alura Cursos" (=> https://cursos.alura.com.br/)
+Eu fiz <strong>apenas</strong> a parte JS, as outras partes foram de autoria da ["Alura Cursos"](https://cursos.alura.com.br/)
 
 ## Ferramentas utilizadas:
 
