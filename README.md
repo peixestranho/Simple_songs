@@ -12,7 +12,7 @@ Eu fiz <strong>apenas</strong> a parte JS, as outras partes foram de autoria da 
 
 ## Feito por:
 
-### Davi Castro
+### Davi Castro:
 
 ### Linkedin: https://www.linkedin.com/in/davi-castro-c/
 
